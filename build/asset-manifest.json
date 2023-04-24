@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/track-series-webapp/static/css/main.583802a9.css",
+    "main.js": "/track-series-webapp/static/js/main.0f1f9665.js",
+    "static/js/787.9d0571d0.chunk.js": "/track-series-webapp/static/js/787.9d0571d0.chunk.js",
+    "static/media/fancybadge.svg": "/track-series-webapp/static/media/fancybadge.96d0e86e6b10df60a6acda5f59821810.svg",
+    "static/media/slipperybadge.svg": "/track-series-webapp/static/media/slipperybadge.b073ec910c90c63bb2cdf0148b092571.svg",
+    "static/media/fantasticbadge.svg": "/track-series-webapp/static/media/fantasticbadge.b0d0e4629d168c26889b82f63fe6f428.svg",
+    "static/media/bearybadge.svg": "/track-series-webapp/static/media/bearybadge.0b012a69a19003b1957113bdb586e8ad.svg",
+    "static/media/seriesbackground.png": "/track-series-webapp/static/media/seriesbackground.1183f053a541e9d2d17e.png",
+    "static/media/karuno.svg": "/track-series-webapp/static/media/karuno.4da8b198af2dc637efa361b52ef1b507.svg",
+    "static/media/more.png": "/track-series-webapp/static/media/more.a77d072aa77ab079d6a6.png",
+    "static/media/episode.jpg": "/track-series-webapp/static/media/episode.401e8dc6bd4ccf57ee15.jpg",
+    "static/media/barbarians.jpg": "/track-series-webapp/static/media/barbarians.5762d7803736792a9dd7.jpg",
+    "static/media/netflix-icon.png": "/track-series-webapp/static/media/netflix-icon.cd0f3735e10b9a5972cc.png",
+    "service-worker.js": "/track-series-webapp/service-worker.js",
+    "static/media/greylogo.png": "/track-series-webapp/static/media/greylogo.efdd60dafe27697b15fd.png",
+    "static/media/logoplain.png": "/track-series-webapp/static/media/logoplain.448c719a4b41ddade92d.png",
+    "index.html": "/track-series-webapp/index.html",
+    "main.583802a9.css.map": "/track-series-webapp/static/css/main.583802a9.css.map",
+    "main.0f1f9665.js.map": "/track-series-webapp/static/js/main.0f1f9665.js.map",
+    "787.9d0571d0.chunk.js.map": "/track-series-webapp/static/js/787.9d0571d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.583802a9.css",
+    "static/js/main.0f1f9665.js"
+  ]
+}
